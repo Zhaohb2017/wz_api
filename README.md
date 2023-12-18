@@ -1,4 +1,4 @@
-# online_JinmaoTorch_apitest
+# online_jiyu_apitest
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin http://172.27.0.69:8929/automate/online_jinmaotorch_apitest.git
+git remote add origin http://192.168.1.153:8929/automate/online_jiyu_apitest.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](http://172.27.0.69:8929/automate/online_jinmaotorch_apitest/-/settings/integrations)
+- [ ] [Set up project integrations](http://192.168.1.153:8929/automate/online_jiyu_apitest/-/settings/integrations)
 
 ## Collaborate with your team
 
