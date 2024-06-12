@@ -3,7 +3,7 @@ env_list={
     #uat环境
     'online': {
         # host
-        'werun_pc_host': 'http://www.hjcreative.cn:6678',
+        'werun_pc_host': 'http://xxxxxxx',
     }
 }
 
